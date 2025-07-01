@@ -6,8 +6,8 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Sql-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Sql-mysql.svg?style=for-the-badge&logo=react&logoColor=F05033" />
+  <img src="https://img.shields.io/badge/Python-python.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tableau-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 

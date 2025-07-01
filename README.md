@@ -22,7 +22,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 
 <p align="center">
-  <a href="Linkedin">
+  <a href="www.linkedin.com/in/luciahsim">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <a href="mailto:shj970313@gmail.com">
     <img src="https://img.shields.io/badge/shj970313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>

@@ -1,7 +1,15 @@
 # Hyojin Sim
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=591DF7&background=D5D5D500&width=500&height=100&lines=Welcome+to+Simi%60s+Github;Experienced+Digital+Marketing)](https://git.io/typing-svg)
-  
-<h3 align="center">✨ Tech Stack ✨</h3>
+
+<h3 align="center">📣 Marketing Platforms : 매체 운영 📣</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
+</p>
+
+<h3 align="center">✨ Tech Stack : 개발 및 데이터 처리 언어 ✨</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -9,15 +17,20 @@
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">🛠 Tools : 데이터 분석·BI·오피스 🛠</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"/>
-  <br>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Analytics_4-F9AB00?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 <h3 align="center">📫 Contact 📫</h3>

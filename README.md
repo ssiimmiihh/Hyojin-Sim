@@ -10,7 +10,7 @@
 </p>
 </p>
 
-<h3 align="center">✨ Tech Stack : 개발 및 데이터 처리 언어 ✨</h3>
+<h3 align="center">✨ Tech Stack : 데이터 처리 및 개발 ✨</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>

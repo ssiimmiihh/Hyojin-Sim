@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"/>
   <img src="https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
 </p>
+</p>
 
 <h3 align="center">✨ Tech Stack : 개발 및 데이터 처리 언어 ✨</h3>
 
@@ -15,6 +16,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
+</p>
 </p>
 
 <h3 align="center">🛠 Tools : 데이터 분석·BI·오피스 🛠</h3>
@@ -32,12 +34,14 @@
   <img src="https://img.shields.io/badge/Google_Analytics_4-F9AB00?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
+</p>
 
 <h3 align="center">📫 Contact 📫</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/luciahsim">
+  <a href="www.linkedin.com/in/luciahsim" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="mailto:shj970313@gmail.com">
     <img src="https://img.shields.io/badge/shj970313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>

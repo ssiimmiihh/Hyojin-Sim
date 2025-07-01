@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
 </p>
 </p>
-
+<br>
 <h3 align="center">✨ Tech Stack : 데이터 처리 및 개발 ✨</h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 </p>
-
+<br>
 <h3 align="center">🛠 Tools : 데이터 분석·BI·오피스 🛠</h3>
 
 <p align="center">
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
 </p>
 </p>
-
+<br>
 <h3 align="center">📫 Contact 📫</h3>
 
 <p align="center">

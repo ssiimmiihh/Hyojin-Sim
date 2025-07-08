@@ -1,6 +1,6 @@
 # Hello, This is Hyojin Sim
 
-[!][header][https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hyojin`s%20Portfolio&fontAlignY=41&fontAlign=49&reversal=false&textBg=false&fontColor=3E2F84]
+![header][https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hyojin`s%20Portfolio&fontAlignY=41&fontAlign=49&reversal=false&textBg=false&fontColor=3E2F84]
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=591DF7&background=D5D5D500&width=600&height=100&lines=Welcome+to+Simi%60s+Github;Experienced+Digital+Marketing)](https://git.io/typing-svg)
 

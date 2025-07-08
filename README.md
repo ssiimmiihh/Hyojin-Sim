@@ -1,6 +1,9 @@
 # Hello, This is Hyojin Sim
 
-<center>![header](https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hyojin`s%20Portfolio&fontAlignY=41&fontAlign=49&reversal=false&textBg=false&fontColor=3E2F84&animation=scaleIn)</center>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hyojin`s%20Portfolio&fontAlignY=41&fontAlign=49&reversal=false&textBg=false&fontColor=3E2F84&animation=scaleIn" />
+</div>
+
 
 <h3 align="center">📊 Marketing Platforms : 매체 운영 📊</h3>
 

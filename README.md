@@ -39,24 +39,22 @@
 </p>
 <br>
 
-<h3 align="center">👉 디지털 마케팅 포트폴리오 </h3>
+
 <p align="center">
   <a href="" target="_blank">
-    디지털 마케팅 포트폴리오 바로가기
+    👉 디지털 마케팅 포트폴리오
   </a>
 </p>
 
-<h3 align="center">👉 태블로 시각화 포트폴리오 </h3>
 <p align="center">
   <a href="https://public.tableau.com/app/profile/luciasim" target="_blank">
-    태블로 포트폴리오 바로가기
+    👉 태블로 시각화 포트폴리오
   </a>
 </p>
 
-<h3 align="center">👉 블로그 긍/부정 리뷰 분석 프로젝트 </h3>
 <p align="center">
   <a href="https://github.com/ssiimmiihh/Streamlitproject_Review" target="_blank">
-    Streamlit 프로젝트 GitHub 바로가기
+    👉 블로그 긍/부정 리뷰 분석 프로젝트
   </a>
 </p>
 

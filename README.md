@@ -38,6 +38,34 @@
 </p>
 </p>
 <br>
+
+<h3 align="center">👉 디지털 마케팅 포트폴리오 </h3>
+<br>
+<p align="center">
+  <a href="https://raw.githubusercontent.com/ssiimmiihh/Marketing-Project/main/hyojin_performance%20marketing%20pp.pdf">
+    <img src="https://img.shields.io/badge/Download-Portfolio-white?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/>
+  </a>
+</p>
+
+
+<h3 align="center">👉 태블로 시각화 포트폴리오 </h3>
+<br>
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/luciasim">
+    <img src="https://img.shields.io/badge/View-Tableau-blue?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+<h3 align="center">👉 블로그 긍/부정 리뷰 분석 프로젝트 </h3>
+<br>
+<p align="center">
+  <a href="https://github.com/ssiimmiihh/Streamlitproject_Review">
+    <img src="https://img.shields.io/badge/View-Streamlit&nbsp;Project-white?style=for-the-badge&logo=github&logoColor=grey"/>
+  </a>
+</p>
+
+<br>
+<br>
+
 <h3 align="center">📫 Contact 📫</h3>
 
 <p align="center">

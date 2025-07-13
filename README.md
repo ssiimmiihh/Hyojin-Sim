@@ -41,7 +41,7 @@
 
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://github.com/ssiimmiihh/Marketing-Project" target="_blank">
     👉 디지털 마케팅 포트폴리오
   </a>
 </p>
